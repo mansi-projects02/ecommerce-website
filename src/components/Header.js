@@ -5,7 +5,7 @@ const Header = ({ cartItems, searchQuery, setSearchQuery, toggleCart }) => {
   return (
     <header className="jewelry-header">
       <div className="head2">
-        <a href="#" className="logo">Jewellery Shop0</a>
+        <a href="#home" className="logo">Jewellery Shop0</a>
         <div className="search-bar">
           <input 
             type="text" 
